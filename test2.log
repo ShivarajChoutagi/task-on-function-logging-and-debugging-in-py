@@ -1,0 +1,49 @@
+INFO:root:enter the number presented
+ERROR:root:the errors in code 
+WARNING:root:the code is gives some warning
+INFO:root:enter the right value
+INFO:root:enter the right value
+INFO:root:enter the right value
+INFO:root:enter the right value
+INFO:root:enter the right value
+ERROR:root:mentioned the error
+INFO:root:enter the right value
+ERROR:root:mentioned the error
+DEBUG:root:showing the debug error
+INFO:root:enter the number presented
+ERROR:root:the errors in code 
+WARNING:root:the code is gives some warning
+INFO:root:enter the list only
+ERROR:root:entered list type error
+ERROR:root:entered list type error
+ERROR:root:entered list type error
+ERROR:root:entered list type error
+ERROR:root:entered list type error
+ERROR:root:entered list type error
+INFO:root:enter the dict type 
+INFO:root:enter the dict type 
+INFO:root:enter the dict type 
+INFO:root:enter the dict type 
+INFO:root:enter the dict type 
+WARNING:root:giving the warning
+INFO:root:printed sucusafully
+INFO:root:enter the dict type 
+INFO:root:enter the tuple type 
+INFO:root:enter the tuple type 
+WARNING:root:giving the warning
+INFO:root:enter the tuple type 
+WARNING:root:giving the warning
+INFO:root:enter the tuple type 
+INFO:root:enter the tuple type 
+INFO:root:enter the tuple type 
+INFO:root:enter the number presented
+ERROR:root:the errors in code 
+WARNING:root:the code is gives some warning
+INFO:root:enter the right value
+INFO:root:enter the right value
+INFO:root:enter the right value
+INFO:root:enter the right value
+INFO:root:enter the right value
+ERROR:root:mentioned the error
+INFO:root:enter the right value
+ERROR:root:mentioned the error
